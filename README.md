@@ -29,6 +29,22 @@ I’m a trained Data Analyst and Cloud Architect with deep experience in FinTech
 
 ## Featured Talks and Workshops
 
+* **Articles on Dev.to:** [Dev.to Profile]((https://dev.to/delia_rue))
+    * ....
+        * [A Reflective Project: Building A Personal Productivity Tool](https://dev.to/your_username/article-slug-1)
+        * [My hack to turning Math and stats to code logic](https://dev.to/your_username/article-slug-2)
+* **Articles on LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/ruvimbo-delia-hakata/)
+    * ...
+        * [LLM Inference Using Java For Private Enterprise](https://www.linkedin.com/pulse/private-llm-inference-enterprises-ruvimbo-delia-hakata-tvrjf/?trackingId=Gs9qUQ7JRg2cVFrcLpuP9Q%3D%3D)
+        * [Getting started with creating Ads using AI, the voice edition](https://www.linkedin.com/pulse/enhancing-presentations-how-ai-tools-generate-campaign-hakata-lrnwf/?trackingId=Gs9qUQ7JRg2cVFrcLpuP9Q%3D%3D)
+* **Speaking Keynotes:** [My Sessionize Profile](https://sessionize.com/ruvimbo-delia-hakata/)
+    *....
+        * [Créer des applications impactantes avec l'IA et le cloud – Retour d'expérience - Build With AI Francophone 2025]([https://sessionize.com/talk-link-1](https://sessionize.com/s/ruvimbo-delia-hakata/creer-des-applications-impactantes-avec-lia-et-le-/141761))
+        * [Thriving Like A True Dev Ninja - GDG Harare DevFest 2023](https://sessionize.com/s/ruvimbo-delia-hakata/thriving-like-a-true-dev-ninja/129321)
+* **Latest Workshop Series:** WEP Workshop [Beginners] -
+    * *Recording here of all 6 weeks of sessions and practical demos of tools .[on youtube](https://www.youtube.com/results?search_query=WEP+S1+2025)*
+
+
 
 
 

@@ -12,11 +12,17 @@ I’m a trained Data Analyst and Cloud Architect with deep experience in FinTech
 🌐 I am passionate about sharing my knowledge and giving back to the community, and I do so through community building and working within the start-up ecosystems programmes in both paid and voluntary positions. I volunteer as Google Developer Groups Harare Organizer and Google Women Techmakers Ambassador organizing events, hackathons, facilitating workshops and mentoring developers.
 
 ## Tools and Languages I use daily
-![Java](https://www.java.com/en/)
 ![Python](https://img.shields.io/badge/Python-3.11-informational)
+![Java](https://img.shields.io/badge/Java-☕-informational)
+![Unsloth](https://img.shields.io/badge/Unsloth-⚡-informational)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-🧠-informational)
 ![FastAPI](https://img.shields.io/badge/FastAPI-🚀-informational)
 ![LangChain](https://img.shields.io/badge/LangChain-🤖-informational)
+![Power BI](https://img.shields.io/badge/Power%20BI-📊-informational)
+![DAX](https://img.shields.io/badge/DAX-🧮-informational)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-informational)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🛢️-informational)
 ![Docker](https://img.shields.io/badge/Docker-🛳️-informational)
+
+
 

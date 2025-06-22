@@ -1,6 +1,6 @@
-## Hi there, I'm Delia 👋
+## Hi there, I'm Ruvimbo Delia 👋
 
-AI Engineer • Data & Business Analyst • Technical Writer
+AI Engineer • Data & Business Analyst • Technical Writer 
 
 🤔**Disclaimer:** The repositories and contributions on this account represent personal projects and do not reflect my professional work contributions, which are primarily on privately hosted.
 
@@ -20,9 +20,15 @@ I’m a trained Data Analyst and Cloud Architect with deep experience in FinTech
 ![LangChain](https://img.shields.io/badge/LangChain-🤖-informational)
 ![Power BI](https://img.shields.io/badge/Power%20BI-📊-informational)
 ![DAX](https://img.shields.io/badge/DAX-🧮-informational)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-✨-informational)
+![GCP](https://img.shields.io/badge/GCP-☁️-informational)
+![AWS](https://img.shields.io/badge/AWS-☁️-informational)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-informational)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🛢️-informational)
 ![Docker](https://img.shields.io/badge/Docker-🛳️-informational)
+
+## Featured Talks and Workshops
+
 
 
 

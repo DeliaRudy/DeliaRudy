@@ -37,14 +37,16 @@ I’m a trained Data Analyst and Cloud Architect with deep experience in FinTech
     * ...
         * [LLM Inference Using Java For Private Enterprise](https://www.linkedin.com/pulse/private-llm-inference-enterprises-ruvimbo-delia-hakata-tvrjf/?trackingId=Gs9qUQ7JRg2cVFrcLpuP9Q%3D%3D)
         * [Getting started with creating Ads using AI, the voice edition](https://www.linkedin.com/pulse/enhancing-presentations-how-ai-tools-generate-campaign-hakata-lrnwf/?trackingId=Gs9qUQ7JRg2cVFrcLpuP9Q%3D%3D)
+          
 * **Speaking Keynotes:** [My Sessionize Profile](https://sessionize.com/ruvimbo-delia-hakata/)
 
   *...
         * [Créer des applications impactantes avec l'IA et le cloud – Retour d'expérience - Build With AI Francophone 2025](https://sessionize.com/s/ruvimbo-delia-hakata/creer-des-applications-impactantes-avec-lia-et-le-/141761)
         * [Thriving Like A True Dev Ninja - GDG Harare DevFest 2023](https://sessionize.com/s/ruvimbo-delia-hakata/thriving-like-a-true-dev-ninja/129321)
   
+  
 * **Latest Workshop Series:** WEP AI Workshop For Educators [Beginners] 
-    * *Recordingof all 6 weeks of sessions and practical demos of tools .[on youtube](https://www.youtube.com/results?search_query=WEP+S1+2025)*
+    * *Recordings of all 6 sessions including the practical demos of tools are available .[on youtube](https://www.youtube.com/results?search_query=WEP+S1+2025)*
 
 
 
